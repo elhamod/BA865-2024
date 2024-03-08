@@ -1,1 +1,2 @@
-# BA865-2024
+# BA865 - Intro to Neural Networks
+## Spring 2024
